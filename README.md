@@ -74,5 +74,5 @@ La memoria consta de dos programas, El primero contiene las instrucciones en 0x1
 0xB:  00   #  halt  #  return 0;
 ```
 
-5. Una mejora que le podríamos hacer a esta computadora es duplicar la cantidad de memoria, pasar de 16 bytes a 32 bytes. ¿Cómo lo harían manteniendo la longitud de las instrucciones en 8 bits? ¿Qué partes de la CPU habría que modificar y cómo? 
-
+5. Una mejora que le podríamos hacer a esta computadora es duplicar la cantidad de memoria, pasar de 16 bytes a 32 bytes. ¿Cómo lo harían manteniendo la longitud de las instrucciones en 8 bits? ¿Qué partes de la CPU habría que modificar y cómo?
+Profe, no sabria responderle esta pregunta. 
